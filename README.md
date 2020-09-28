@@ -1,6 +1,6 @@
 ## ![](https://img.shields.io/badge/Made%20In-Marslo-1f425f.svg)
 
-Marslo is the stuff devops engineer.
+Marslo is a stuff devops engineer.
 
 <a href="#">
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=imarslo&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
