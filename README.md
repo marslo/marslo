@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <img align="center" src="https://via.placeholder.com/600x1.png/fff/fff">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marslo" alt="marslo" /></p>
+-->
+
+![](https://via.placeholder.com/600x1.png/fff/fff)
+![](https://github-readme-streak-stats.herokuapp.com/?user=marslo)
