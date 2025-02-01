@@ -7,7 +7,7 @@ Marslo is a Principal Devops Engineer
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslo&layout=compact&hide_border=true&title_color=a0a9af">
 </p>
 
-<img align="center" src="https://via.placeholder.com/600x1.png/fff/fff">
+<!-- <img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"> -->
 
 **where to find me**
 
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://via.placeholder.com/600x1.png/fff/fff">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marslo" alt="marslo" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marslo)
 -->
 
 ![](https://via.placeholder.com/600x1.png/fff/fff)
-![](https://github-readme-streak-stats.herokuapp.com/?user=marslo)
+![](https://streak-stats.demolab.com/?user=marslo&theme=light)
