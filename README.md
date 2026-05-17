@@ -1,10 +1,12 @@
 ## ![](https://img.shields.io/badge/Made%20In-Marslo-1f425f.svg)
 
 Marslo is a Principal Devops Engineer
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslo&layout=compact&hide_border=true&title_color=a0a9af"> -->
+<!-- <img src="https://render.gitanimals.org/lines/marslo?page=readme"> -->
 
 <p>
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=marslo&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslo&layout=compact&hide_border=true&title_color=a0a9af">
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=marslo&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" height="190px">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marslo&layout=compact&hide_border=true&title_color=a0a9af&langs_count=8&card_width=400" height="190px">
 </p>
 
 <!-- <img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"> -->
