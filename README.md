@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 <img align="center" src="https://via.placeholder.com/600x1.png/fff/fff">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marslo" alt="marslo" /></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marslo)
+![](https://via.placeholder.com/600x1.png/fff/fff)
+
 -->
 
-![](https://via.placeholder.com/600x1.png/fff/fff)
 ![](https://streak-stats.demolab.com/?user=marslo&theme=light)
